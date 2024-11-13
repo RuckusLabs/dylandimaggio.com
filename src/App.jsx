@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import './App.css'
 
-import data from 'https://www.ruckuslabs.github.io/dylandimaggio.com/database.json?url';
+import data from 'https://raw.githubusercontent.com/RuckusLabs/dylandimaggio.com/refs/heads/main/public/database.json';
 
 function App() {
 
