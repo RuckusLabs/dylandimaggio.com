@@ -11,7 +11,7 @@ export default function Writings() {
   let { id } = useParams();
 
   useEffect(() => {
-    fetch('/writing-database.json')
+    fetch('https://raw.githubusercontent.com/RuckusLabs/dylandimaggio.com/refs/heads/main/public/writing-database.json')
       .then((response) => response.json())
       .then((data) => {
 
