@@ -6,11 +6,11 @@ export default function Footer() {
       <footer>
         <div className={`wrapper ${footer.wrapper}`}>
           <ul className={footer.social}>
-            <li><a href="#">IMDB</a></li>
-            <li><a href="#">LinkedIn</a></li>
-            <li><a href="#">Twitter</a></li>
+            <li><a target="_blank" href="https://www.imdb.com/name/nm4607499/">IMDB</a></li>
+            <li><a target="_blank" href="https://www.linkedin.com/in/dylan-dimaggio-92aa6b35/">LinkedIn</a></li>
+            <li><a target="_blank" href="https://x.com/dylan_dimaggio">Twitter</a></li>
           </ul>
-          <p><a className={footer.email} href="#">dylan@dylandimaggio.com</a></p>
+          <p><a className={footer.email} href="mailto:dylan@dylandimaggio.com">dylan@dylandimaggio.com</a></p>
           <p className={footer.caption}>© {new Date().getFullYear()} Dylan DiMaggio</p>
           {/* <p className={footer.caption}>Made with love by <a href="https://www.ruckuslabs.co"><svg className={footer.ruckusLogo} xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75px" height="16px" viewBox="0 0 75 16" version="1.1">
             <title>Ruckus Labs</title>
