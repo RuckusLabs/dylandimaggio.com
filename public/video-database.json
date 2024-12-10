@@ -3,9 +3,13 @@
     "id": 1,
     "title": "Cold Caller",
     "role": "Writer",
-    "description": "",
+    "description": "This is a demo description for Cold Caller",
     "poster": "https://dummyimage.com/500x500/000/fff.jpg",
-    "link": "https://vimeo.com/251531515"
+    "link": "https://vimeo.com/251531515",
+    "credits": [
+      "Dylan DiMaggio (Producer)",
+      "Damian Makki (Designer)"
+    ]
   },
   {
     "id": 2,
@@ -33,6 +37,18 @@
   },
   {
     "id": 5,
+    "title": "Sailor Jerry",
+    "role": "Producer",
+    "description": "This is a demo description for Sailor Jerry",
+    "poster": "https://dummyimage.com/500x500/000/fff.jpg",
+    "link": "https://vimeo.com/170667575",
+    "credits": [
+      "Dylan DiMaggio (Producer)",
+      "Damian Makki (Designer)"
+    ]
+  },
+  {
+    "id": 6,
     "title": "Nickelodeon Writer Program",
     "role": "Editor",
     "description": "",
@@ -40,7 +56,7 @@
     "link": "https://vimeo.com/277586492"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Nickelodeon Artist Program Social Media",
     "role": "Editor",
     "description": "",
@@ -48,7 +64,7 @@
     "link": "https://vimeo.com/277588886"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Nickelodeon Writer Program Social Media",
     "role": "Editor",
     "description": "",
@@ -56,7 +72,7 @@
     "link": "https://vimeo.com/277586050"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Migraine X",
     "role": "Director",
     "description": "",
@@ -64,7 +80,7 @@
     "link": "https://vimeo.com/228850575"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Migraine X",
     "role": "Producer",
     "description": "",
@@ -72,7 +88,7 @@
     "link": "https://vimeo.com/228847584"
   },
   {
-    "id": 9,
+    "id": 11,
     "title": "Migraine X",
     "role": "Editor",
     "description": "",
@@ -80,7 +96,7 @@
     "link": "https://vimeo.com/228845306"
   },
   {
-    "id": 10,
+    "id": 12,
     "title": "The Cure",
     "role": "Writer",
     "description": "",
@@ -88,7 +104,7 @@
     "link": "https://vimeo.com/178999377"
   },
   {
-    "id": 11,
+    "id": 13,
     "title": "Dishing Happiness",
     "role": "Producer",
     "description": "",
@@ -96,7 +112,7 @@
     "link": "https://www.youtube.com/watch?v=qQwlv4Qa7TU"
   },
   {
-    "id": 12,
+    "id": 14,
     "title": "Dishing Happiness",
     "role": "Producer",
     "description": "",
@@ -104,7 +120,7 @@
     "link": "https://www.youtube.com/watch?v=fiIOwZAnlBY"
   },
   {
-    "id": 13,
+    "id": 15,
     "title": "Dishing Happiness",
     "role": "Producer",
     "description": "",
