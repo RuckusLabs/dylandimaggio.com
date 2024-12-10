@@ -11,5 +11,5 @@ export default defineConfig({
       },
     },
   },
-  // base: '/dylandimaggio.com/', // GitHub Pages expects this to point to your repo name
+  base: '/dylandimaggio.com/', // GitHub Pages expects this to point to your repo name
 })
