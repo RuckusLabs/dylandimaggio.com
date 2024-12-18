@@ -2,6 +2,7 @@
   {
     "id": 1,
     "company": "",
+    "client": "",
     "title": "Cold Caller",
     "role": "Writer",
     "date": "2022"
@@ -9,8 +10,9 @@
   {
     "id": 2,
     "company": "",
+    "client": "",
     "title": "Cold Caller",
     "role": "Writer",
     "date": "2022"
-  },
+  }
 ]
