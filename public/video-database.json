@@ -1,9 +1,21 @@
 [
   {
+    "id": 5,
+    "title": "Sailor Jerry",
+    "role": "Producer",
+    "description": "This is a demo description for Sailor Jerry",
+    "link": "https://vimeo.com/170667575",
+    "credits": [
+      "Dylan DiMaggio (Producer)",
+      "Damian Makki (Designer)",
+      "Roman (Videographer)"
+    ]
+  },
+  {
     "id": 1,
     "title": "Cold Caller",
     "role": "Writer",
-    "description": "This is a demo description for Cold Caller",
+    "description": "Cold Caller is a short film about a caller who is cold.",
     "link": "https://vimeo.com/251531515",
     "credits": [
       "Dylan DiMaggio (Producer)",
@@ -30,17 +42,6 @@
     "role": "Producer",
     "description": "",
     "link": "https://vimeo.com/352179767"
-  },
-  {
-    "id": 5,
-    "title": "Sailor Jerry",
-    "role": "Producer",
-    "description": "This is a demo description for Sailor Jerry",
-    "link": "https://vimeo.com/170667575",
-    "credits": [
-      "Dylan DiMaggio (Producer)",
-      "Damian Makki (Designer)"
-    ]
   },
   {
     "id": 6,
