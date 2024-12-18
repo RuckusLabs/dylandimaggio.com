@@ -35,7 +35,7 @@ export default function Writings() {
               <p><span className="publish-date">{item.publishDate}</span></p>
               <h4>{item.title}</h4>
               {item?.content?.split('\n').map((paragraph, index) => (
-                <p key={index}>{paragraph}</p>
+                <p key={index} dangerouslySetInnerHTML={{ __html: paragraph }} />
               ))}
             </li>
           ))}
