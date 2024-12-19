@@ -15,11 +15,11 @@ function App() {
       <Router basename="/dylandimaggio.com">
         <Nav />
         <Routes>
-          <Route path="" element={<Home />} />
-          <Route path="videos" element={<VideosPage />} />
-          <Route path="video/:id" element={<Video />} />
-          <Route path="about" element={<About />} />
-          <Route path="writing" element={<Writing />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/videos" element={<VideosPage />} />
+          <Route path="/video/:id" element={<Video />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/writing" element={<Writing />} />
         </Routes>
         <Footer />
       </Router>
