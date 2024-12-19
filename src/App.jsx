@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-      <Router basename="/dylandimaggio.com">
+      <Router>
         <Nav />
         <Routes>
           <Route path="/" element={<Home />} />
