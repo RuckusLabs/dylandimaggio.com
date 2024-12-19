@@ -8,7 +8,6 @@ export default function Footer() {
           <ul className={footer.social}>
             <li><a target="_blank" href="https://www.imdb.com/name/nm4607499/">IMDB</a></li>
             <li><a target="_blank" href="https://www.linkedin.com/in/dylan-dimaggio-92aa6b35/">LinkedIn</a></li>
-            <li><a target="_blank" href="https://x.com/dylan_dimaggio">Twitter</a></li>
           </ul>
           <p><a className={footer.email} href="mailto:dylan@dylandimaggio.com">dylan@dylandimaggio.com</a></p>
           <p className={footer.caption}>© {new Date().getFullYear()} Dylan DiMaggio</p>
