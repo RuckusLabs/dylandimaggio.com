@@ -10,22 +10,24 @@
     "title": "Chortle: Mr. Manners' Advice for a Clean Getaway",
     "publishDate": "2024",
     "content": "Here's an article I wrote: <a target=\"_blank\" href=\"https://www.chortle.blog/p/advice-summer-travel-funny-humor\">Mr. Manners' Advice for a Clean Getaway</a>"
-  {
+  },
+    {
     "id": 3,
     "title": "Chromaphase: Videogame",
     "publishDate": "2022",
     "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/existence\">Existence</a>"
-
+    },
+  {
     "id": 4,
     "title": "Chromaphase: Videogame",
     "publishDate": "2022",
     "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/heartbeat\">Heart Beat</a>"
-
+  },
+  {
     "id": 5,
     "title": "Chromaphase: Videogame",
     "publishDate": "2022",
     "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/sakhaline-station\">Sakhaline Station</a>"
-
     
   }
 ]
