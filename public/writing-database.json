@@ -1,77 +1,56 @@
-[
-  {
-    "id": 1,
-    "title": "Chortle: Mr. Manners' Advice for School Lunch",
-    "publishDate": "2024",
-    "content": "Here's an article I wrote: <a target=\"_blank\" href=\"https://www.chortle.blog/p/school-lunch-advice-parents-funny-humor\">Mr. Manners' Advice for School Lunch</a>"
-  },
-  {
-    "id": 2,
-    "title": "Chortle: Mr. Manners' Advice for a Clean Getaway",
-    "publishDate": "2024",
-    "content": "Here's an article I wrote: <a target=\"_blank\" href=\"https://www.chortle.blog/p/advice-summer-travel-funny-humor\">Mr. Manners' Advice for a Clean Getaway</a>"
-  },
-  {
-    "id": 3,
-    "title": "Chromaphase: Existence – Videogame",
-    "publishDate": "2022",
-    "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/existence\">Existence</a>"
-  },
-  {
-    "id": 4,
-    "title": "Chromaphase: Heart Beat – Videogame",
-    "publishDate": "2022",
-    "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/heartbeat\">Heart Beat</a>"
-  },
-  {
-    "id": 5,
-    "title": "Chromaphase: Sakhaline Station – Videogame",
-    "publishDate": "2022",
-    "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/sakhaline-station\">Sakhaline Station</a>"
-  },
-  {
-    "id": 6,
-    "title": "A Jolly Good Fellow: Feature Screenplay",
-    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/12Cu3u2RPTzCxJM2y9qfbAUzeR-JEg9XG/view?usp=drive_link\">A Jolly Good Fellow</a>"
-  },
-  {
-    "id": 7,
-    "title": "Mayfly: Feature Screenplay",
-    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1IeNdUIN3P-33GjEM8QSmcGdhzY93K9At/view?usp=drive_link\">Mayfly</a>"
-  },
-  {
-    "id": 8,
-    "title": "World War Mars: Feature Screenplay",
-    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1DhFhmHSIP7aIbVYtqgOTIw18fNARpR_N/view?usp=drive_link\">World War Mars</a>"
-  },
-  {
-    "id": 9,
-    "title": "Alone: Feature Screenplay",
-    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1gwfyGYu_HnqZZ4sptef6vc9FB3E2o3xM/view?usp=drive_link\">Alone</a>"
-  },
-  {
-    "id": 10,
-    "title": "ASIP: The Gang Goes to Hell – Spec Script",
-    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1_InrL7tAUA0iF94xD3ownOL9nsC1TkSz/view?usp=drive_link\">The Gang Goes to Hell</a>"
-  },
-  {
-    "id": 11,
-    "title": "The Midnight Zone: Feature Screenplay",
-    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1KYWenBTma8i4GiPPCG88Mq8yqTxdlv57/view?usp=drive_link\">The Midnight Zone</a>"
-  },
-  {
-    "id": 12,
-    "title": "Full Moon: Feature Screenplay",
-    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1CoEn6fgw8aeVxuTHu9zA_sf95ISIHVun/view?usp=drive_link\">Full Moon</a>"
-  },
-  {
-    "id": 13,
-    "title": "The Mirror Program: Feature Screenplay",
-    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1uKYhFUUed8YQniL7Xnp_ZbEChMrk86gU/view?usp=drive_link\">The Mirror Program</a>"
-  },
-  {
-    "id": 14,
-    "title": "Half Life: Feature Screenplay",
-    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1Zkz_YIzGJTfDslstf6eoiGd1iJ2UA5bZ/view?usp=drive_link\">Half Life</a>"
-  }
-]
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+  <div class="border rounded-2xl p-4 shadow hover:shadow-lg transition">
+    <h3 class="text-xl font-semibold mb-2">A Jolly Good Fellow</h3>
+    <p class="text-sm italic text-gray-600 mb-1">Genre: Dark Comedy</p>
+    <p class="text-sm mb-3">A disgraced mall Santa embarks on one last holiday hustle to redeem himself in the eyes of his daughter.</p>
+    <a href="https://drive.google.com/file/d/12Cu3u2RPTzCxJM2y9qfbAUzeR-JEg9XG/view?usp=drive_link" target="_blank" class="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Read Script</a>
+  </div>
+  <div class="border rounded-2xl p-4 shadow hover:shadow-lg transition">
+    <h3 class="text-xl font-semibold mb-2">Mayfly</h3>
+    <p class="text-sm italic text-gray-600 mb-1">Genre: Horror / Thriller</p>
+    <p class="text-sm mb-3">A grieving man returns to his rural hometown only to find a terrifying secret behind the suicide cult he escaped.</p>
+    <a href="https://drive.google.com/file/d/1IeNdUIN3P-33GjEM8QSmcGdhzY93K9At/view?usp=drive_link" target="_blank" class="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Read Script</a>
+  </div>
+  <div class="border rounded-2xl p-4 shadow hover:shadow-lg transition">
+    <h3 class="text-xl font-semibold mb-2">World War Mars</h3>
+    <p class="text-sm italic text-gray-600 mb-1">Genre: Sci-Fi / War / Drama</p>
+    <p class="text-sm mb-3">A broken father on Mars uncovers a corporate conspiracy while searching for his lost son.</p>
+    <a href="https://drive.google.com/file/d/1DhFhmHSIP7aIbVYtqgOTIw18fNARpR_N/view?usp=drive_link" target="_blank" class="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Read Script</a>
+  </div>
+  <div class="border rounded-2xl p-4 shadow hover:shadow-lg transition">
+    <h3 class="text-xl font-semibold mb-2">Alone</h3>
+    <p class="text-sm italic text-gray-600 mb-1">Genre: Drama / Thriller</p>
+    <p class="text-sm mb-3">A young girl fights to survive in a remote wilderness after witnessing a mysterious act of violence.</p>
+    <a href="https://drive.google.com/file/d/1gwfyGYu_HnqZZ4sptef6vc9FB3E2o3xM/view?usp=drive_link" target="_blank" class="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Read Script</a>
+  </div>
+  <div class="border rounded-2xl p-4 shadow hover:shadow-lg transition">
+    <h3 class="text-xl font-semibold mb-2">ASIP: The Gang Goes to Hell</h3>
+    <p class="text-sm italic text-gray-600 mb-1">Genre: Comedy / Spec</p>
+    <p class="text-sm mb-3">In this spec episode of It's Always Sunny in Philadelphia, the gang accidentally dies and schemes their way through the underworld.</p>
+    <a href="https://drive.google.com/file/d/1_InrL7tAUA0iF94xD3ownOL9nsC1TkSz/view?usp=drive_link" target="_blank" class="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Read Script</a>
+  </div>
+  <div class="border rounded-2xl p-4 shadow hover:shadow-lg transition">
+    <h3 class="text-xl font-semibold mb-2">The Midnight Zone</h3>
+    <p class="text-sm italic text-gray-600 mb-1">Genre: Sci-Fi / Mystery</p>
+    <p class="text-sm mb-3">After a deep-sea expedition disappears, a rescue crew discovers an abyssal anomaly that distorts time and memory.</p>
+    <a href="https://drive.google.com/file/d/1KYWenBTma8i4GiPPCG88Mq8yqTxdlv57/view?usp=drive_link" target="_blank" class="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Read Script</a>
+  </div>
+  <div class="border rounded-2xl p-4 shadow hover:shadow-lg transition">
+    <h3 class="text-xl font-semibold mb-2">Full Moon</h3>
+    <p class="text-sm italic text-gray-600 mb-1">Genre: Horror / Satire</p>
+    <p class="text-sm mb-3">A cynical Hollywood producer turns into a literal monster while shooting a werewolf film in the desert.</p>
+    <a href="https://drive.google.com/file/d/1CoEn6fgw8aeVxuTHu9zA_sf95ISIHVun/view?usp=drive_link" target="_blank" class="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Read Script</a>
+  </div>
+  <div class="border rounded-2xl p-4 shadow hover:shadow-lg transition">
+    <h3 class="text-xl font-semibold mb-2">The Mirror Program</h3>
+    <p class="text-sm italic text-gray-600 mb-1">Genre: Psychological Thriller / Sci-Fi</p>
+    <p class="text-sm mb-3">A reclusive programmer is forced to confront his traumatic past when he’s hired to test an A.I. that mirrors the human soul.</p>
+    <a href="https://drive.google.com/file/d/1uKYhFUUed8YQniL7Xnp_ZbEChMrk86gU/view?usp=drive_link" target="_blank" class="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Read Script</a>
+  </div>
+  <div class="border rounded-2xl p-4 shadow hover:shadow-lg transition">
+    <h3 class="text-xl font-semibold mb-2">Half Life</h3>
+    <p class="text-sm italic text-gray-600 mb-1">Genre: Sci-Fi / Psychological Thriller</p>
+    <p class="text-sm mb-3">After his daughter’s death, a man joins a Cold War-era experiment that bends the limits of time and grief.</p>
+    <a href="https://drive.google.com/file/d/1Zkz_YIzGJTfDslstf6eoiGd1iJ2UA5bZ/view?usp=drive_link" target="_blank" class="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Read Script</a>
+  </div>
+</div>
