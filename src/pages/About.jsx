@@ -7,9 +7,9 @@ function About() {
         <div className="intro">
           <h3>About</h3>
         </div>
-        <p>Hi, I’m Dylan, a passionate videographer with a deep love for storytelling. Before picking up a camera, I spent years honing my craft as a writer, weaving narratives that connected with readers on an emotional level. That experience shaped how I approach videography today—each project is an opportunity to tell a compelling story, whether through the lens of a camera or the flow of a script.</p>
-        <p>My transition from writing to videography wasn’t planned, but it felt natural. Writing taught me how to structure stories, evoke emotions, and capture the human experience. Now, I use those same skills to craft visuals that resonate. I believe in the power of authentic storytelling and work to bring that energy into every project I take on, from personal passion pieces to professional collaborations.</p>
-        <p>When I’m not behind the camera or at my desk editing, you’ll find me soaking in creative inspiration—whether it’s through movies, books, or exploring the world around me. I’m constantly learning and experimenting, striving to grow as both an artist and a storyteller. Let’s connect and create something memorable!</p>
+        <p>Hi, I’m Dylan—a screenwriter and storyteller with a background in film, fiction, and narrative design. I’ve written over a dozen original screenplays across sci-fi, horror, drama, and thrillers, including *Les Nettoyeurs* (2022) and *Santa Muerte* (sold). My work has been recognized by the Austin Film Festival and has helped bring emotionally grounded genre stories to life on screen.</p>
+        <p>Whether I’m writing a feature film, building a world for a game, or ghostwriting fiction, I approach every project with the same focus: character-first storytelling that hits hard. I’m drawn to stories about survival, grief, strange connections, and what it means to be human in a broken world.</p>
+        <p>If you’re looking for a writer who can create immersive narratives, sharp dialogue, and clean structure—I’d love to connect and see what we can build together.</p>
       </div>
     </>
   );
