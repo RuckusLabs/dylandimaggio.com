@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-   "title": "Chortle: Mr. Manners' Advice for School Lunch",
+    "title": "Chortle: Mr. Manners' Advice for School Lunch",
     "publishDate": "2024",
     "content": "Here's an article I wrote: <a target=\"_blank\" href=\"https://www.chortle.blog/p/school-lunch-advice-parents-funny-humor\">Mr. Manners' Advice for School Lunch</a>"
   },
@@ -11,29 +11,67 @@
     "publishDate": "2024",
     "content": "Here's an article I wrote: <a target=\"_blank\" href=\"https://www.chortle.blog/p/advice-summer-travel-funny-humor\">Mr. Manners' Advice for a Clean Getaway</a>"
   },
-    {
+  {
     "id": 3,
-    "title": "Chromaphase: Videogame",
+    "title": "Chromaphase: Existence – Videogame",
     "publishDate": "2022",
     "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/existence\">Existence</a>"
-    },
+  },
   {
     "id": 4,
-    "title": "Chromaphase: Videogame",
+    "title": "Chromaphase: Heart Beat – Videogame",
     "publishDate": "2022",
     "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/heartbeat\">Heart Beat</a>"
   },
   {
     "id": 5,
-    "title": "Chromaphase: Videogame",
+    "title": "Chromaphase: Sakhaline Station – Videogame",
     "publishDate": "2022",
     "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/sakhaline-station\">Sakhaline Station</a>"
-    
   },
   {
-  "id": 6,
-  "title": "A Jolly Good Fellow: Feature Screenplay",
-  "publishDate": "2025",
-  "content": "Read the feature script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/17CmzXB-ycd8ygUUHrY9vnctNkzHv__hr/view\">A Jolly Good Fellow</a>"
-}
+    "id": 6,
+    "title": "A Jolly Good Fellow: Feature Screenplay",
+    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/12Cu3u2RPTzCxJM2y9qfbAUzeR-JEg9XG/view?usp=drive_link\">A Jolly Good Fellow</a>"
+  },
+  {
+    "id": 7,
+    "title": "Mayfly: Feature Screenplay",
+    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1IeNdUIN3P-33GjEM8QSmcGdhzY93K9At/view?usp=drive_link\">Mayfly</a>"
+  },
+  {
+    "id": 8,
+    "title": "World War Mars: Feature Screenplay",
+    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1DhFhmHSIP7aIbVYtqgOTIw18fNARpR_N/view?usp=drive_link\">World War Mars</a>"
+  },
+  {
+    "id": 9,
+    "title": "Alone: Feature Screenplay",
+    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1gwfyGYu_HnqZZ4sptef6vc9FB3E2o3xM/view?usp=drive_link\">Alone</a>"
+  },
+  {
+    "id": 10,
+    "title": "ASIP: The Gang Goes to Hell – Spec Script",
+    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1_InrL7tAUA0iF94xD3ownOL9nsC1TkSz/view?usp=drive_link\">The Gang Goes to Hell</a>"
+  },
+  {
+    "id": 11,
+    "title": "The Midnight Zone: Feature Screenplay",
+    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1KYWenBTma8i4GiPPCG88Mq8yqTxdlv57/view?usp=drive_link\">The Midnight Zone</a>"
+  },
+  {
+    "id": 12,
+    "title": "Full Moon: Feature Screenplay",
+    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1CoEn6fgw8aeVxuTHu9zA_sf95ISIHVun/view?usp=drive_link\">Full Moon</a>"
+  },
+  {
+    "id": 13,
+    "title": "The Mirror Program: Feature Screenplay",
+    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1uKYhFUUed8YQniL7Xnp_ZbEChMrk86gU/view?usp=drive_link\">The Mirror Program</a>"
+  },
+  {
+    "id": 14,
+    "title": "Half Life: Feature Screenplay",
+    "content": "Read the script: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1Zkz_YIzGJTfDslstf6eoiGd1iJ2UA5bZ/view?usp=drive_link\">Half Life</a>"
+  }
 ]
