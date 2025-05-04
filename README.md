@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 ## Local Development
-- Disable GPG signing: git config --global commit.gpgsign false
+- Disable GPG signing: `git config --global commit.gpgsign false`
