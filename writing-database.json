@@ -3,6 +3,7 @@
     "id": 1,
     "title": "Chortle: Mr. Manners' Advice for School Lunch",
     "publishDate": "2024",
+    "category": "articles",
     "content": "Here's an article I wrote: <a target=\"_blank\" href=\"https://www.chortle.blog/p/school-lunch-advice-parents-funny-humor\">Mr. Manners' Advice for School Lunch</a>"
   },
   {
@@ -15,6 +16,7 @@
     "id": 3,
     "title": "Chromaphase: Existence – Videogame",
     "publishDate": "2022",
+    "category": "games",
     "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/existence\">Existence</a>"
   },
   {
@@ -33,6 +35,7 @@
     "id": 6,
     "title": "A Jolly Good Fellow",
     "genre": "Dark Comedy",
+    "category": "screenplays",
     "logline": "A disgraced mall Santa embarks on one last holiday hustle to redeem himself in the eyes of his daughter.",
     "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/12Cu3u2RPTzCxJM2y9qfbAUzeR-JEg9XG/view?usp=drive_link\">A Jolly Good Fellow</a>"
   },
