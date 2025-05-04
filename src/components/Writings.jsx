@@ -34,6 +34,8 @@ export default function Writings() {
             <li key={item.id}>
               <p><span className="publish-date">{item.publishDate}</span></p>
               <h4>{item.title}</h4>
+              {item.genre && <h5>{item.genre}</h5>}
+              {item.logline && <p>{item.logline}</p>}
               {item?.content?.split('\n').map((paragraph, index) => (
                 <p key={index} dangerouslySetInnerHTML={{ __html: paragraph }} />
               ))}

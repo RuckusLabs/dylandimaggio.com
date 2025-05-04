@@ -9,6 +9,10 @@
     line-height: 1.3;
   }
 
+  h4+h5 {
+    margin-top: -5px;
+  }
+
   .publish-date {
     text-transform: uppercase;
     font-size: 12px;
