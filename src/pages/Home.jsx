@@ -24,9 +24,6 @@ function Home() {
       </section>
 
       <section className="wrapper">
-        <div className="intro">
-          <h3>Content Writing</h3>
-        </div>
         <Writings />
       </section>
 
