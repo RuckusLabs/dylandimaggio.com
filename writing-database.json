@@ -1,20 +1,95 @@
 [
   {
     "id": 1,
-    "title": "The Balancing Act: Wearing All the Hats in Independent Production",
-    "publishDate": "December 12, 2024",
-    "content": "As an independent writer, producer, and editor, I’ve learned that juggling multiple roles is both a challenge and a superpower. On one hand, it’s empowering to oversee every step of the creative process—from shaping the story to seeing it come to life on screen. On the other, it demands constant switching between creative and logistical mindsets.\n\nWriting requires focus and imagination, producing demands organization and resourcefulness, and editing tests patience and precision. Each role is its own art, and balancing them often feels like a high-wire act. But the reward? Total creative ownership. The ability to bring a vision to life exactly as you imagined it.\n\nOne trick I’ve found helpful is time-blocking. I dedicate specific days or hours to each role so I can fully immerse myself without distractions. It’s not always perfect, but it helps keep the chaos manageable. To fellow creators out there, remember: it’s okay to ask for help when you need it. Collaboration can spark magic."
+    "title": "Chortle: Mr. Manners' Advice for School Lunch",
+    "publishDate": "2024",
+    "content": "Here's an article I wrote: <a target=\"_blank\" href=\"https://www.chortle.blog/p/school-lunch-advice-parents-funny-humor\">Mr. Manners' Advice for School Lunch</a>"
   },
   {
     "id": 2,
-    "title": "From Script to Screen: How Writing Shapes the Entire Creative Process",
-    "publishDate": "December 12, 2024",
-    "content": "Every great project starts with a story, and as a writer, I know the script is the foundation of everything. It’s not just words on a page; it’s the blueprint for what’s to come. As someone who also produces and edits, I’ve found that strong writing simplifies everything that follows.\n\nWhen writing, I think like a producer: Can this scene be shot on my budget? Do I have the resources to make this vision a reality? And when I’m editing, I rely on the script as a guide, revisiting its beats to ensure the final cut stays true to the original intent.\n\nWearing all three hats has taught me the importance of flexibility. Sometimes, what works on paper doesn’t translate on set or in the edit bay. Adapting without losing the essence of the story is key. Writing isn’t just the first step—it’s a thread that runs through the entire process."
+    "title": "Chortle: Mr. Manners' Advice for a Clean Getaway",
+    "publishDate": "2024",
+    "content": "Here's an article I wrote: <a target=\"_blank\" href=\"https://www.chortle.blog/p/advice-summer-travel-funny-humor\">Mr. Manners' Advice for a Clean Getaway</a>"
   },
   {
     "id": 3,
-    "title": "Chromaphase",
+    "title": "Chromaphase: Existence – Videogame",
     "publishDate": "2022",
-    "content": "Here's a game I helped to write: <a target=\"_blank\" href=\"https://chromaphase.itch.io/existence\">Chromaphase</a>"
+    "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/existence\">Existence</a>"
+  },
+  {
+    "id": 4,
+    "title": "Chromaphase: Heart Beat – Videogame",
+    "publishDate": "2022",
+    "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/heartbeat\">Heart Beat</a>"
+  },
+  {
+    "id": 5,
+    "title": "Chromaphase: Sakhaline Station – Videogame",
+    "publishDate": "2022",
+    "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/sakhaline-station\">Sakhaline Station</a>"
+  },
+  {
+    "id": 6,
+    "title": "A Jolly Good Fellow",
+    "genre": "Dark Comedy",
+    "logline": "A disgraced mall Santa embarks on one last holiday hustle to redeem himself in the eyes of his daughter.",
+    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/12Cu3u2RPTzCxJM2y9qfbAUzeR-JEg9XG/view?usp=drive_link\">A Jolly Good Fellow</a>"
+  },
+  {
+    "id": 7,
+    "title": "Mayfly",
+    "genre": "Horror / Thriller",
+    "logline": "A grieving man returns to his rural hometown only to find a terrifying secret behind the suicide cult he escaped.",
+    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1IeNdUIN3P-33GjEM8QSmcGdhzY93K9At/view?usp=drive_link\">Mayfly</a>"
+  },
+  {
+    "id": 8,
+    "title": "World War Mars",
+    "genre": "Sci-Fi / War / Drama",
+    "logline": "A broken father on Mars uncovers a corporate conspiracy while searching for his lost son.",
+    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1DhFhmHSIP7aIbVYtqgOTIw18fNARpR_N/view?usp=drive_link\">World War Mars</a>"
+  },
+  {
+    "id": 9,
+    "title": "Alone",
+    "genre": "Drama / Thriller",
+    "logline": "A young girl fights to survive in a remote wilderness after witnessing a mysterious act of violence.",
+    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1gwfyGYu_HnqZZ4sptef6vc9FB3E2o3xM/view?usp=drive_link\">Alone</a>"
+  },
+  {
+    "id": 10,
+    "title": "ASIP: The Gang Goes to Hell",
+    "genre": "Comedy / Spec",
+    "logline": "In this spec episode of It's Always Sunny in Philadelphia, the gang accidentally dies and schemes their way through the underworld.",
+    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1_InrL7tAUA0iF94xD3ownOL9nsC1TkSz/view?usp=drive_link\">The Gang Goes to Hell</a>"
+  },
+  {
+    "id": 11,
+    "title": "The Midnight Zone",
+    "genre": "Sci-Fi / Mystery",
+    "logline": "After a deep-sea expedition disappears, a rescue crew discovers an abyssal anomaly that distorts time and memory.",
+    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1KYWenBTma8i4GiPPCG88Mq8yqTxdlv57/view?usp=drive_link\">The Midnight Zone</a>"
+  },
+  {
+    "id": 12,
+    "title": "Full Moon",
+    "genre": "Horror / Satire",
+    "logline": "A cynical Hollywood producer turns into a literal monster while shooting a werewolf film in the desert.",
+    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1CoEn6fgw8aeVxuTHu9zA_sf95ISIHVun/view?usp=drive_link\">Full Moon</a>"
+  },
+  {
+    "id": 13,
+    "title": "The Mirror Program",
+    "genre": "Psychological Thriller / Sci-Fi",
+    "logline": "A reclusive programmer is forced to confront his traumatic past when he’s hired to test an A.I. that mirrors the human soul.",
+    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1uKYhFUUed8YQniL7Xnp_ZbEChMrk86gU/view?usp=drive_link\">The Mirror Program</a>"
+  },
+  {
+    "id": 14,
+    "title": "Half Life",
+    "genre": "Sci-Fi / Psychological Thriller",
+    "logline": "After his daughter’s death, a man joins a Cold War-era experiment that bends the limits of time and grief.",
+    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1Zkz_YIzGJTfDslstf6eoiGd1iJ2UA5bZ/view?usp=drive_link\">Half Life</a>"
   }
 ]
