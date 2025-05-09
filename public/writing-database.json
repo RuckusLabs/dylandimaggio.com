@@ -10,6 +10,7 @@
     "id": 2,
     "title": "Chortle: Mr. Manners' Advice for a Clean Getaway",
     "publishDate": "2024",
+    "category": "articles",
     "content": "Here's an article I wrote: <a target=\"_blank\" href=\"https://www.chortle.blog/p/advice-summer-travel-funny-humor\">Mr. Manners' Advice for a Clean Getaway</a>"
   },
   {
@@ -23,12 +24,14 @@
     "id": 4,
     "title": "Chromaphase: Heart Beat – Videogame",
     "publishDate": "2022",
+    "category": "games",
     "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/heartbeat\">Heart Beat</a>"
   },
   {
     "id": 5,
     "title": "Chromaphase: Sakhaline Station – Videogame",
     "publishDate": "2022",
+    "category": "games",
     "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/sakhaline-station\">Sakhaline Station</a>"
   },
   {
@@ -43,6 +46,7 @@
     "id": 7,
     "title": "Mayfly",
     "genre": "Horror / Thriller",
+    "category": "screenplays",
     "logline": "A grieving man returns to his rural hometown only to find a terrifying secret behind the suicide cult he escaped.",
     "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1IeNdUIN3P-33GjEM8QSmcGdhzY93K9At/view?usp=drive_link\">Mayfly</a>"
   },
@@ -50,6 +54,7 @@
     "id": 8,
     "title": "World War Mars",
     "genre": "Sci-Fi / War / Drama",
+    "category": "screenplays",
     "logline": "A broken father on Mars uncovers a corporate conspiracy while searching for his lost son.",
     "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1DhFhmHSIP7aIbVYtqgOTIw18fNARpR_N/view?usp=drive_link\">World War Mars</a>"
   },
@@ -57,6 +62,7 @@
     "id": 9,
     "title": "Alone",
     "genre": "Drama / Thriller",
+    "category": "screenplays",
     "logline": "A young girl fights to survive in a remote wilderness after witnessing a mysterious act of violence.",
     "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1gwfyGYu_HnqZZ4sptef6vc9FB3E2o3xM/view?usp=drive_link\">Alone</a>"
   },
@@ -64,6 +70,7 @@
     "id": 10,
     "title": "ASIP: The Gang Goes to Hell",
     "genre": "Comedy / Spec",
+    "category": "screenplays",
     "logline": "In this spec episode of It's Always Sunny in Philadelphia, the gang accidentally dies and schemes their way through the underworld.",
     "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1_InrL7tAUA0iF94xD3ownOL9nsC1TkSz/view?usp=drive_link\">The Gang Goes to Hell</a>"
   },
@@ -71,6 +78,7 @@
     "id": 11,
     "title": "The Midnight Zone",
     "genre": "Sci-Fi / Mystery",
+    "category": "screenplays",
     "logline": "After a deep-sea expedition disappears, a rescue crew discovers an abyssal anomaly that distorts time and memory.",
     "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1KYWenBTma8i4GiPPCG88Mq8yqTxdlv57/view?usp=drive_link\">The Midnight Zone</a>"
   },
@@ -78,6 +86,7 @@
     "id": 12,
     "title": "Full Moon",
     "genre": "Horror / Satire",
+    "category": "screenplays",
     "logline": "A cynical Hollywood producer turns into a literal monster while shooting a werewolf film in the desert.",
     "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1CoEn6fgw8aeVxuTHu9zA_sf95ISIHVun/view?usp=drive_link\">Full Moon</a>"
   },
@@ -85,6 +94,7 @@
     "id": 13,
     "title": "The Mirror Program",
     "genre": "Psychological Thriller / Sci-Fi",
+    "category": "screenplays",
     "logline": "A reclusive programmer is forced to confront his traumatic past when he’s hired to test an A.I. that mirrors the human soul.",
     "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1uKYhFUUed8YQniL7Xnp_ZbEChMrk86gU/view?usp=drive_link\">The Mirror Program</a>"
   },
@@ -92,6 +102,7 @@
     "id": 14,
     "title": "Half Life",
     "genre": "Sci-Fi / Psychological Thriller",
+    "category": "screenplays",
     "logline": "After his daughter’s death, a man joins a Cold War-era experiment that bends the limits of time and grief.",
     "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1Zkz_YIzGJTfDslstf6eoiGd1iJ2UA5bZ/view?usp=drive_link\">Half Life</a>"
   }
