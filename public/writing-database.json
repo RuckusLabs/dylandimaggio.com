@@ -1,109 +1,101 @@
 [
   {
     "id": 1,
-    "title": "Chortle: Mr. Manners' Advice for School Lunch",
-    "publishDate": "2024",
-    "category": "articles",
-    "content": "Here's an article I wrote: <a target=\"_blank\" href=\"https://www.chortle.blog/p/school-lunch-advice-parents-funny-humor\">Mr. Manners' Advice for School Lunch</a>"
+    "title": "World War Mars",
+    "genre": "Military Sci‑Fi / Political Thriller",
+    "category": "screenplays",
+    "logline": "On war‑torn Mars, a battle‑numbed grunt and an enslaved teen supersoldier discover their forever‑war is a corporate price‑fixing scam and ignite a worker revolt while orbital lasers count down to erase them.",
+    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1DhFhmHSIP7aIbVYtqgOTIw18fNARpR_N/view?usp=drive_link\">World War Mars</a>"
   },
   {
     "id": 2,
-    "title": "Chortle: Mr. Manners' Advice for a Clean Getaway",
-    "publishDate": "2024",
-    "category": "articles",
-    "content": "Here's an article I wrote: <a target=\"_blank\" href=\"https://www.chortle.blog/p/advice-summer-travel-funny-humor\">Mr. Manners' Advice for a Clean Getaway</a>"
+    "title": "Mayfly",
+    "genre": "Folk‑Horror / Thriller",
+    "category": "screenplays",
+    "logline": "A pill‑addicted ex‑cop returns to his swampy hometown and uncovers a mayfly‑worshipping cult that drowns victims every seven years—unless he breaks the cycle and saves a ten‑year‑old girl.",
+    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1IeNdUIN3P-33GjEM8QSmcGdhzY93K9At/view?usp=drive_link\">Mayfly</a>"
   },
   {
     "id": 3,
+    "title": "The Mirror Program",
+    "genre": "Action‑Sci‑Fi Thriller",
+    "category": "screenplays",
+    "logline": "A Delta Force commando returns home to find a perfect bio‑clone has replaced him, triggering a lethal showdown with the Pentagon’s “Mirror” program that grows soldiers to finish missions without consent.",
+    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1uKYhFUUed8YQniL7Xnp_ZbEChMrk86gU/view?usp=drive_link\">The Mirror Program</a>"
+  },
+  {
+    "id": 4,
+    "title": "A Jolly Good Fellow",
+    "genre": "Southern‑Gothic Crime Thriller",
+    "category": "screenplays",
+    "logline": "A forcibly retired Georgia deputy discovers a wildfire is cover for a meth‑and‑arson ring run by his estranged son, forcing him to choose between blood and justice as the town burns.",
+    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/12Cu3u2RPTzCxJM2y9qfbAUzeR-JEg9XG/view?usp=drive_link\">A Jolly Good Fellow</a>"
+  },
+  {
+    "id": 5,
+    "title": "Les Nettoyeurs (The Cleaners)",
+    "genre": "Crime / Thriller",
+    "category": "screenplays",
+    "logline": "A Marseille hitman is forced to turn on his employer after a botched cleanup, launching a blood‑soaked spiral of revenge and redemption. Produced micro‑thriller released in 2022.",
+    "content": "Watch the trailer: <a target=\"_blank\" href=\"https://vimeo.com/781043048\">Les Nettoyeurs Trailer</a>"
+  },
+  {
+    "id": 6,
+    "title": "Santa Muerte",
+    "genre": "Surrealist Cartel Horror",
+    "category": "screenplays",
+    "logline": "A young woman caught in cartel violence discovers she is bound by a bloodline curse and must survive a brutal path to spiritual vengeance. (Paid assignment.)",
+    "content": "Screenplay available upon request. (Paid assignment.)"
+  },
+  {
+    "id": 7,
+    "title": "Arkham",
+    "genre": "Horror / Mystery (1‑Hour Pilot)",
+    "category": "television",
+    "logline": "A trauma‑scarred surgeon takes a temporary posting in the remote town of Arkham, Georgia, and uncovers a marble‑quarry cult that feeds an antler‑crowned deity—making her the next sacrifice unless she unravels the town’s centuries‑old pact.",
+    "content": "Read the pilot: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1aGqRw8KYgx8NDxi7XY2EQdeARilJfGbz/view?usp=drive_link\">Arkham</a>"
+  },
+  {
+    "id": 8,
+    "title": "Erik the OK",
+    "genre": "Animated Fantasy / Comedy (½‑Hour Pilot)",
+    "category": "television",
+    "logline": "An insecure would‑be knight and his starry‑eyed squire set out to prove their heroism—while a snarky ectoplasmic double of Erik, born of his own self‑doubt, tags along to heckle every misadventure.",
+    "content": "Read the pilot: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1dBvZMJzLNa8a2wzDMEFx0OKvU_nZhRZL/view?usp=drive_link\">Erik the OK</a>"
+  },
+  {
+    "id": 9,
     "title": "Chromaphase: Existence – Videogame",
     "publishDate": "2022",
     "category": "games",
     "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/existence\">Existence</a>"
   },
   {
-    "id": 4,
+    "id": 10,
     "title": "Chromaphase: Heart Beat – Videogame",
     "publishDate": "2022",
     "category": "games",
     "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/heartbeat\">Heart Beat</a>"
   },
   {
-    "id": 5,
+    "id": 11,
     "title": "Chromaphase: Sakhaline Station – Videogame",
     "publishDate": "2022",
     "category": "games",
     "content": "Here's a game I wrote: <a target=\"_blank\" href=\"https://chromaphase.itch.io/sakhaline-station\">Sakhaline Station</a>"
   },
   {
-    "id": 6,
-    "title": "A Jolly Good Fellow",
-    "genre": "Southern-Gothic Crime Thriller",
-    "category": "screenplays",
-    "logline": "A forcibly retired Georgia deputy discovers a wildfire is cover for a meth-and-arson ring run by his estranged son, forcing him to choose between blood and justice as the town burns.",
-    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/12Cu3u2RPTzCxJM2y9qfbAUzeR-JEg9XG/view?usp=drive_link\">A Jolly Good Fellow</a>"
-  },
-  {
-    "id": 7,
-    "title": "Mayfly",
-    "genre": "Folk-Horror / Thriller",
-    "category": "screenplays",
-    "logline": "A pill-addicted ex-cop returns to his swampy hometown and uncovers a mayfly-worshipping cult that drowns victims every seven years—unless he breaks the cycle and saves a ten-year-old girl.",
-    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1IeNdUIN3P-33GjEM8QSmcGdhzY93K9At/view?usp=drive_link\">Mayfly</a>"
-  },
-  {
-    "id": 8,
-    "title": "World War Mars",
-    "genre": "Military Sci-Fi / Political Thriller",
-    "category": "screenplays",
-    "logline": "On war-torn Mars, a battle-numbed grunt and an enslaved teen supersoldier discover their forever-war is a corporate price-fixing scam and ignite a worker revolt while orbital lasers count down to erase them.",
-    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1DhFhmHSIP7aIbVYtqgOTIw18fNARpR_N/view?usp=drive_link\">World War Mars</a>"
-  },
-  {
-    "id": 9,
-    "title": "Alone",
-    "genre": "Psychological Horror / Contained Thriller",
-    "category": "screenplays",
-    "logline": "Summoned home by her brother’s “suicide,” a guilt-ridden journalist confronts a parasitic spirit that drives lonely townsfolk to self-destruction—and threatens to expose the childhood murder she buried.",
-    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1gwfyGYu_HnqZZ4sptef6vc9FB3E2o3xM/view?usp=drive_link\">Alone</a>"
-  },
-  {
-    "id": 10,
-    "title": "ASIP: The Gang Goes to Hell",
-    "genre": "TV Comedy Spec",
-    "category": "screenplays",
-    "logline": "Mac locks the Gang in Paddy’s—re-themed as a Seven Deadly Sins hell-maze—proving eternal damnation is nothing compared with five narcissists trapped together.",
-    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1_InrL7tAUA0iF94xD3ownOL9nsC1TkSz/view?usp=drive_link\">ASIP: The Gang Goes to Hell</a>"
-  },
-  {
-    "id": 11,
-    "title": "The Midnight Zone",
-    "genre": "Sci-Fi Action / Deep-Sea Horror",
-    "category": "screenplays",
-    "logline": "A rescue crew diving for a vanished oil-rig team finds an abyssal craft whose biomech field warps time and memory, pitting them against a corporate clean-up squad—and their own unraveling minds.",
-    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1KYWenBTma8i4GiPPCG88Mq8yqTxdlv57/view?usp=drive_link\">The Midnight Zone</a>"
-  },
-  {
     "id": 12,
-    "title": "Full Moon",
-    "genre": "Sci-Fi Horror / Survival",
-    "category": "screenplays",
-    "logline": "During the first lunar landing in 50 years, a medic mutates into a were-wolf under a blue super-moon, trapping six astronauts inside the base while corporate brass block any rescue.",
-    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1CoEn6fgw8aeVxuTHu9zA_sf95ISIHVun/view?usp=drive_link\">Full Moon</a>"
+    "title": "Chortle: Mr. Manners' Advice for School Lunch",
+    "publishDate": "2024",
+    "category": "articles",
+    "content": "Here's an article I wrote: <a target=\"_blank\" href=\"https://www.chortle.blog/p/school-lunch-advice-parents-funny-humor\">Mr. Manners' Advice for School Lunch</a>"
   },
   {
     "id": 13,
-    "title": "The Mirror Program",
-    "genre": "Action-Sci-Fi Thriller",
-    "category": "screenplays",
-    "logline": "A Delta Force commando returns home to find a perfect bio-clone has replaced him, triggering a lethal showdown with the Pentagon’s “Mirror” program that grows soldiers to finish missions without consent.",
-    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1uKYhFUUed8YQniL7Xnp_ZbEChMrk86gU/view?usp=drive_link\">The Mirror Program</a>"
-  },
-  {
-    "id": 14,
-    "title": "Half Life",
-    "genre": "Supernatural Adventure / Historical Sci-Fi",
-    "category": "screenplays",
-    "logline": "In 1991 Moscow, a grieving physicist must stop his power-mad uncle from resurrecting Stalin through a WWII-era afterlife portal—while rescuing his daughter and confronting the wife he lost inside the void.",
-    "content": "Read the screenplay: <a target=\"_blank\" href=\"https://drive.google.com/file/d/1Zkz_YIzGJTfDslstf6eoiGd1iJ2UA5bZ/view?usp=drive_link\">Half Life</a>"
+    "title": "Chortle: Mr. Manners' Advice for a Clean Getaway",
+    "publishDate": "2024",
+    "category": "articles",
+    "content": "Here's an article I wrote: <a target=\"_blank\" href=\"https://www.chortle.blog/p/advice-summer-travel-funny-humor\">Mr. Manners' Advice for a Clean Getaway</a>"
   }
 ]
